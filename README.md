@@ -12,9 +12,9 @@
 ```js
 const Me = {
   Networks : {
+    Website : "https://notzs.dev",
     Learning : ["JavaScript", "Python",],
     Contact : ["Discord", "Telegram" ],
-    Website : "https://notzs.dev"
     Os : "Windows",
   }
 };
