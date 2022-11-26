@@ -1,16 +1,21 @@
-### Hi there 👋
+<img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200"/>
+<img src="https://lanyard-profile-readme.vercel.app/api/1037270142553440296"/>
+  
 
-<!--
-**notzs/notzs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</p>   
+<br>
+<br>
+<br>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+```js
+const Me = {
+  Networks : {
+    Learning : ["JavaScript", "Python",],
+    Contact : ["Discord", "Telegram" ],
+    Website : "https://notzs.dev"
+    Os : "Windows",
+  }
+};
+````
