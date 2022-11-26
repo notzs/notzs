@@ -4,8 +4,6 @@
 
 </p>   
 <br>
-<br>
-<br>
 
 ```js
 const Me = {
