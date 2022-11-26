@@ -13,9 +13,9 @@
 const Me = {
   Networks : {
     Website : "https://notzs.dev",
-    Learning : ["JavaScript", "Python",],
+    Learning : ["JavaScript", "Python"],
     Contact : ["Discord", "Telegram" ],
-    Os : "Windows",
+    Os : "Windows"
   }
 };
 ````
