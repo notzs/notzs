@@ -4,8 +4,8 @@
 ```js
 const Me = {
   Networks : {
-    Website : "https://notzs.dev",
-    Learning : ["JavaScript", "Python"],
+    Website : "https://soon",
+    Learning : ["JavaScript", "Python", "Golang", "HTML"],
     Contact : ["Discord", "Telegram" ],
     Os : "Windows"
   }
